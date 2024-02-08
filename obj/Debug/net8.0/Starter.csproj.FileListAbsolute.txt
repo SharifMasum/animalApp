@@ -1,0 +1,14 @@
+D:\C Sharp\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\C Sharp\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\C Sharp\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\C Sharp\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\C Sharp\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\C Sharp\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\C Sharp\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\C Sharp\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\C Sharp\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\C Sharp\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\C Sharp\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\C Sharp\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\C Sharp\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
